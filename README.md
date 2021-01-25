@@ -33,7 +33,7 @@ Yangmiemie‘s leetcode notebook
 
 [最长递增子序列](./src/lis.js)
 
-#### ### bind
+### bind
 
 [bind](./src/bind.js)
 
@@ -57,13 +57,21 @@ Yangmiemie‘s leetcode notebook
 
 [柯里化-curry](./src/curry.js)
 
-### 
+### 快速排序
 
+[quickSort](./src/quickSort.js)
 
+### 归并排序
 
+[mergeSort.js](./src/mergeSort.js)
 
+### 插入排序
 
+[insertSort](./src/insertSort.js)
 
+### 青蛙跳台变阶
+
+[jumpFloorII](./src/jumpFloorII.js)
 
 
 
