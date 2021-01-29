@@ -1,15 +1,15 @@
 # Leetcode-Note-yL
 Yangmiemie‘s leetcode notebook
 
-### 数组去重有哪些方式？手写数组去重
+### 手写数组去重
 
 [数组去重](./src/arrUnique.js)
 
-### 数组拍平？
+### 数组拍平
 
 [数组拍平](./src/arrayFlatten.js)
 
-### setTimeout实现setInterval？
+### setTimeout实现setInterval
 
 [myInterval](./src/myInterval.js)
 
@@ -69,9 +69,11 @@ Yangmiemie‘s leetcode notebook
 
 [insertSort](./src/insertSort.js)
 
-### 青蛙跳台变阶
+## Leetcode题
 
-[jumpFloorII](./src/jumpFloorII.js)
+#### [青蛙跳台变阶]([jumpFloorII](./src/jumpFloorII.js))
 
+#### [ 颜色分类-75](https://leetcode-cn.com/problems/sort-colors/)
 
+#### [比特位计数-338](https://leetcode-cn.com/problems/counting-bits/)
 
