@@ -1,25 +1,25 @@
 # Leetcode-Note-yL
 Yangmiemie‘s leetcode notebook
 
-### 手写数组去重
+#### 数组去重
 
-[数组去重](./src/arrUnique.js)
+* [source](./src/arrUnique.js)
 
 ### 数组拍平
 
-[数组拍平](./src/arrayFlatten.js)
+[source](./src/arrayFlatten.js)
 
 ### setTimeout实现setInterval
 
-[myInterval](./src/myInterval.js)
+[source](./src/myInterval.js)
 
 ### Promise
 
-[promise](/src/promise.js)
+[source](/src/promise.js)
 
 ### PromiseAll
 
-[PromiseAll](./src/promiseAll.js)
+[source](./src/promiseAll.js)
 
 ### 实现超时机制  超出5s报错
 
@@ -27,47 +27,47 @@ Yangmiemie‘s leetcode notebook
 
 ### 深拷贝
 
-[深拷贝](./src/deepCopy.js)
+[source](./src/deepCopy.js)
 
 ### 最长递增子序列
 
-[最长递增子序列](./src/lis.js)
+[source](./src/lis.js)
 
 ### bind
 
-[bind](./src/bind.js)
+[source](./src/bind.js)
 
 ### call
 
-[call](./src/call.js)
+[source](./src/call.js)
 
 ### 实现apply
 
-[apply](./src/apply.js)
+[source](./src/apply.js)
 
 ### 节流
 
-[节流-throttle](./src/throttle.js)
+[source](./src/throttle.js)
 
 ### 防抖
 
-[防抖-debounce](./src/debounce.js)
+[source](./src/debounce.js)
 
-### 函数柯里化
+#### 函数柯里化
 
-[柯里化-curry](./src/curry.js)
+* [source-curry](./src/curry.js)
 
-### 快速排序
+#### 快速排序
 
-[quickSort](./src/quickSort.js)
+* [source-quickSort](./src/quickSort.js)
 
-### 归并排序
+#### 归并排序
 
-[mergeSort.js](./src/mergeSort.js)
+* [source-mergeSort](./src/mergeSort.js)
 
-### 插入排序
+#### 插入排序
 
-[insertSort](./src/insertSort.js)
+* [source-insertSort](./src/insertSort.js)
 
 ## Leetcode题
 
