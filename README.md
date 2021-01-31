@@ -1,6 +1,8 @@
 # Leetcode-Note-yL
 Yangmiemie‘s leetcode notebook
 
+## 基础题
+
 #### 数组去重 - [source](./src/arrUnique.js)
 
 #### 数组拍平 - [source](./src/arrayFlatten.js)
@@ -42,4 +44,6 @@ Yangmiemie‘s leetcode notebook
 #### [比特位计数-338](https://leetcode-cn.com/problems/counting-bits/)
 
 #### [最长递增子序列-300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
+#### [两数相加 II-445](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 
