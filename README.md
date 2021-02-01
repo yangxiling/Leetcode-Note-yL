@@ -47,3 +47,5 @@ Yangmiemie‘s leetcode notebook
 
 #### [两数相加 II-445](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 
+#### [二叉树的最近公共祖先-236.](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
