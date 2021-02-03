@@ -49,3 +49,7 @@ Yangmiemie‘s leetcode notebook
 
 #### [二叉树的最近公共祖先-236.](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
+#### [ 二叉树的最大深度-104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+
+#### [合并二叉树-617 ](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+
