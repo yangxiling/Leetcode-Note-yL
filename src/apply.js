@@ -8,7 +8,7 @@ Function.prototype.myApply = function (context, args) {
   if (!args) {
     result = context.fn();
   } else {
-    result = context.fn(...args);
+    result = context.fn(args);
   }
   // 执行完这个方法  在执行上下文环境中删除这个方法
   delete context.fn;
