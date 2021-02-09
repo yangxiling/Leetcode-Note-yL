@@ -18,3 +18,7 @@
 
 #### [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 
+#### [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+#### [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+
