@@ -22,3 +22,7 @@
 
 #### [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 
+#### [带缓存的的斐波那契数列](../src/feibonaqi-cache.js)
+
+#### [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+
