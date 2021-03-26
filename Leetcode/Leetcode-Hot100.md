@@ -26,3 +26,9 @@
 
 #### [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
+#### [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+
+#### [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+
+#### [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+
