@@ -38,4 +38,7 @@
 
 #### [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 
-#### 
+#### [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+
+#### [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+
