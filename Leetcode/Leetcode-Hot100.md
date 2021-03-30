@@ -42,3 +42,7 @@
 
 #### [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
+#### [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+
+#### [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
+
