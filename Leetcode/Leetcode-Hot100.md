@@ -46,3 +46,7 @@
 
 #### [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 
+#### [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+
+#### [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+
