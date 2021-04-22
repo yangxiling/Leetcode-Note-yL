@@ -1,7 +1,7 @@
 # Leetcode-Note-yL
 Yangmiemie‘s leetcode notebook
 
-## 基础题
+## 基础
 
 #### 数组去重 - [source](./src/arrUnique.js)
 
@@ -23,6 +23,10 @@ Yangmiemie‘s leetcode notebook
 
 #### apply - [source](./src/apply.js)
 
+#### new - [new](./src/new.js)
+
+#### instanceof - [instanceof](./src/instanceof.js)
+
 #### 节流 - [source](./src/throttle.js)
 
 #### 防抖 - [source](./src/debounce.js)
@@ -35,7 +39,7 @@ Yangmiemie‘s leetcode notebook
 
 #### 插入排序 - [source-insertSort](./src/insertSort.js)
 
+#### [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 
 
-#### 
 

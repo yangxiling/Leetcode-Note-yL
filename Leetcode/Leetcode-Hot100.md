@@ -50,3 +50,9 @@
 
 #### [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
 
+#### [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+
+#### [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+
+#### [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+

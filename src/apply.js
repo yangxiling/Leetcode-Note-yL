@@ -5,10 +5,10 @@ Function.prototype.myApply = function (context, args) {
   context.fn = this;
   let result;
   //执行这个函数
-  if (!args) {
+  if (!args) {//判断一下，args是否遍历
     result = context.fn();
   } else {
-    result = context.fn(args);
+    result = context.fn(...args);
   }
   // 执行完这个方法  在执行上下文环境中删除这个方法
   delete context.fn;
@@ -23,4 +23,4 @@ function test(args) {
   console.log(this.name); //jack
   console.log(...args); //1,2,3
 }
-test.myApply(obj, [1, 2, 3]);
+test.myApply(obj);
