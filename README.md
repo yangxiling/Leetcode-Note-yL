@@ -39,7 +39,5 @@ Yangmiemie‘s leetcode notebook
 
 #### 插入排序 - [source-insertSort](./src/insertSort.js)
 
-#### [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
-
 
 

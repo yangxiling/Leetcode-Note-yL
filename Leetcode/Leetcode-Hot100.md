@@ -56,3 +56,5 @@
 
 #### [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
+#### [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+
