@@ -58,3 +58,5 @@
 
 #### [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
+#### [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+
